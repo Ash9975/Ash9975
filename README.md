@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashish Pimpalshende 👋</h1>
+<h1 align="center">Hi, I'm Ashish Pimpalshende </h1>
 
 <p align="center">
 Full Stack Developer passionate about building scalable web applications, AI-powered products, and cloud-native solutions.
@@ -62,7 +62,7 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 
 ## 🌟 Featured Projects
 
-### 🚀 FlowZen
+###  FlowZen
 > AI-powered order management platform that transforms WhatsApp order images into structured packing checklists using **Gemini API**.
 
 **Tech:** React • Node.js • Express.js • MongoDB • Redis • Docker • Gemini API  
@@ -71,7 +71,7 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 
 ---
 
-### 🚗 UrbanRide
+###  UrbanRide
 > Full-stack vehicle rental platform featuring **Admin, Agent, and Customer** workflows with secure booking management, trip tracking, and cloud deployment.
 
 **Tech:** React • Node.js • Express.js • MongoDB Atlas • JWT • Tailwind CSS  
@@ -84,17 +84,17 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 > Modern food discovery platform delivering a **reels-inspired browsing experience** with seamless restaurant exploration and responsive design.
 
 **Tech:** React • Node.js • Express.js • MongoDB  
-🚧 **Currently under active development**
+**Currently under active development**
 
 ---
 
 ## 📚 Currently Learning
 
-- ☸️ Kubernetes
-- ☁️ AWS
-- 🏗 Microservices
-- ⚡ Next.js
-- 🤖 AI Agents & MCP
+- Kubernetes
+- AWS Cloud
+- Microservices
+- Next.js
+- AI Agents & MCP
 
 ---
 
