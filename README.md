@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ashish 👋
 
-<!--
-**Ash9975/Ash9975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable web applications and AI-powered products.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React • Next.js • Node.js • Express.js
+MongoDB • Redis • Docker
+TypeScript • LangGraph • Gemini API
+
+## Featured Projects
+
+🚀 FlowZen
+AI-powered Order Management Platform
+
+🚗 UrbanRide
+Full Stack Vehicle Rental Platform
+
+## Currently Learning
+
+Kubernetes
+AWS
+Microservices
+Next.js
+
+## Reach Me
+
+Portfolio
+LinkedIn
+Email
