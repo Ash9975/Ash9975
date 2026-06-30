@@ -67,7 +67,7 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 
 **Tech:** React • Node.js • Express.js • MongoDB • Redis • Docker • Gemini API  
 🔗 **Repository:** [FlowZen](https://github.com/Ash9975/FlowZen)
-🔗 **Live:** [Live](https://github.com/Ash9975/FlowZen](https://flow-zen-omega.vercel.app/)
+🔗 **Live:** [Link](https://flow-zen-omega.vercel.app)
 
 ---
 
@@ -76,7 +76,7 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 
 **Tech:** React • Node.js • Express.js • MongoDB Atlas • JWT • Tailwind CSS  
 🔗 **Repository:** [FlowZen](https://github.com/Ash9975/UrbanRide)
-🔗 **Live:** [Live](https://urban-ride-zeta.vercel.app )
+🔗 **Live:** [Link](https://urban-ride-zeta.vercel.app )
 
 ---
 
