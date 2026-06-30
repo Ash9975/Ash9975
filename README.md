@@ -68,9 +68,7 @@ Full Stack Developer focused on building scalable web applications, AI-powered p
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ash9975&show_icons=true&theme=github_dark&hide_border=true"/>
-
+<img height="170" src="https://streak-stats.demolab.com?user=Ash9975&theme=github-dark&hide_border=true"/>
 </p>
 
 ## 🤝 Connect With Me
