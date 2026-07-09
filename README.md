@@ -99,17 +99,7 @@ React • Node.js • Express.js • MongoDB Atlas • JWT • Tailwind CSS
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=Ash9975&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ash9975&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash9975&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<p align="center"> <img height="170" src="https://streak-stats.demolab.com?user=Ash9975&theme=github-dark&hide_border=true"/> </p>
 
 ---
 
